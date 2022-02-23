@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm John Mikhael. Project manager and tech lead with a huge portfolio in the tech industry. In 2021 enrolled in multiple Blockchain/Web 3.0 courses/workshops including: Solidity development - Smart Contracts - Defi - Crypto trading - NFT - Dapp - DAO. In addition I dived into the digital markerting world, I excel in SEO from on-site to off-site techniques, achieved Google Analytics certification in 2021 and enrolled in multiple courses for SEM and Social media marketing... In conclusion I'm a savy when it comes to anything related to digital 👍 ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,154 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Cheez Hospitality",
+        "startDate": "2021-2022",
+        "description": "The most expanded application I had opportunity to work on. With the role of project manager and technical lead on Cheez Hospitality app which was a property management solution, stays tours and experiences booking, and an e-shop, with multiple currencies, payment refund upon policy, booking editing/cancellation and much more",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Cheez/Cheez-4.png",
+          "images/portfolio/Cheez/Cheez-5.png",
+          "images/portfolio/Cheez/Cheez-6.png",
+          "images/portfolio/Cheez/Cheez-1.png",
+          "images/portfolio/Cheez/Cheez-2.png",
+          "images/portfolio/Cheez/Cheez-3.png"
         ],
-        "url": "",
+        "url": "https://apps.apple.com/app/cheez-hospitality/id1596443646",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React Native"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongo Db"
+          }           
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Elysees Horlogerie",
+        "startDate": "2021",
+        "description": "Elysees Horlogerie, A high end luxerious watches located in Élysées-France, a unique and fine touch reflecting the luxirious style. I developed this website using Wordpress and Worpdress Hooks",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Elysees/Elysees-1.png",
+          "images/portfolio/Elysees/Elysees-2.png",
+          "images/portfolio/Elysees/Elysees-3.png"
         ],
-        "url": "https://github.com",
+        "url": "http://elysees-horlogerie.com/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "JQuery"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Rise Technologies",
+        "startDate": "2021",
+        "description": "Rise Technology website is an informative-portfolio for a company located in Dubai who wanted to grow it's online presence and for publishing news and careers...",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/rise/rise-1.png",
+          "images/portfolio/rise/rise-2.png",
+          "images/portfolio/rise/rise-3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://rise.ae",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sass-original",
+            "name": "Sass"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "",
+        "title": "Web 3.0 Enthusiast",
+        "years": "07.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Blockchain"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Crypto Trading",
+          "Smart Contracts",
+          "Solidity",
+          "NFT trading",
+          "DEX",
+          "DeFi",
+          "DAO",
+          "Dapp"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "VZBLT",
+        "title": "Digital Expert",
+        "years": "12.2020 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Consultant"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "SEO",
+          "UA/GA4/GTM",
+          "Google Ads",
+          "Facebook Ads",
+          "Email Marketing",
+          "Social Media Marketing",
+          "Lead Generation",
+          "Data Analysis",
+          "Strategic thinking",
+          "Ecom",
+          "DropShipping",
+          "Shopify/WooCommerce"
+        ]
+      },
+      {
+        "company": "cNepho",
+        "title": "Project Manager/Tech Lead",
+        "years": "09.2020 - Present",
+        "mainTech": [
+          "Full Stack"
+        ],
+        "technologies": [
+          "Python",
+          "RestAPI",
+          "WordPress",
           "JavaScript",
-          "DHTMLX Gantt"
+          "ReactJS",
+          "PHP",
+          "Sass/Tailwind/MaterialUI",
+          "Anime.JS/Velocity.Js",
+          "Hosting Administrator",
+          "Database Administrator",
+          "Git",
+          "AWS",
+          "Selenium Scraper"
         ]
       }
     ]
